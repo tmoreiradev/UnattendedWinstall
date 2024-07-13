@@ -1,4 +1,6 @@
 # Memory’s Tech Tips’ Unattended Windows Installation
+## Youtube Video
+https://www.youtube.com/watch?v=JUTdRZNqODY
 
 ## Overview
 
